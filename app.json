@@ -1,0 +1,17 @@
+{
+  "name": "line-imadesyo",
+  "description": "imadesyo for LINE",
+  "keywords": ["imadesyo", "LINE"],
+  "addons": ["fixie:tricycle"],
+  "env": {
+    "LINE_CHANNEL_ID": {
+      "description": "LINE Channel ID"
+    },
+    "LINE_CHANNEL_SECRET": {
+      "description": "LINE Channel Secret"
+    },
+    "LINE_CHANNEL_MID": {
+      "description": "LINE Channel MID"
+    }
+  }
+}
